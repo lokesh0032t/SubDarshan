@@ -1,7 +1,7 @@
 # SubDarshan
 ## SubDarshan : A Python-Based SubDomain BruteForcer
 <br>
-Author - Lokesh Bhati
+### Author - Lokesh Bhati
 
 ![](/img/image.png)
 <br>
