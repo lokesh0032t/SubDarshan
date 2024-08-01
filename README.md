@@ -7,6 +7,7 @@ Author - Lokesh Bhati
 <br>
 Installation:
 ```pip3 install -r requirements.txt```
+<br>
 Usage:
 ```
 ./SubDarshan -d google.com -v
@@ -20,6 +21,7 @@ options:
     -v, --verbose (Default : OFF)         Show Verbose Output
     -V, --version                         Show Version of Tool!
 ```
+<br>
 Example:
 ```
 ./SubDarshan -d/--domain google.com -w/--wordlist <Path of Wordlist> -t/--thread <Numbers of Threads> -v 
