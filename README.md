@@ -4,7 +4,8 @@ SubDarshan : A Python-Based SubDomain BruteForcer
 Author - Lokesh Bhati
 
 ![](/img/image.png)
-
+Installation:
+```pip3 install -r requirements.txt```
 Usage:
 ```
 ./SubDarshan -d google.com -v
