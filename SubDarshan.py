@@ -84,10 +84,13 @@ else:
             list_thread.append(thread)
 
 if wordlist:
-    print(f"WordList :- {wordlist}\n")
+    print(f"WordList :- {wordlist}")
 else:
-    print("")
-
+    print("WordList : - default.txt")
+if threads:
+        print(f"Threads :- {threads}")
+else:
+        print(f"Threads :- 200")
 if verbose:
     print("Verbose Mode: True \n")
 else:
