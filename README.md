@@ -4,6 +4,7 @@ SubDarshan : A Python-Based SubDomain BruteForcer
 Author - Lokesh Bhati
 
 ![](/img/image.png)
+<br>
 Installation:
 ```pip3 install -r requirements.txt```
 Usage:
