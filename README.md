@@ -22,7 +22,9 @@ options:
     -V, --version                         Show Version of Tool!
 ```
 <br>
+
 Example:
+
 ```
 ./SubDarshan -d/--domain google.com -w/--wordlist <Path of Wordlist> -t/--thread <Numbers of Threads> -v 
 ```
