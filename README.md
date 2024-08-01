@@ -1,5 +1,5 @@
 # SubDarshan
-##SubDarshan : A Python-Based SubDomain BruteForcer
+## SubDarshan : A Python-Based SubDomain BruteForcer
 <br>
 Author - Lokesh Bhati
 
